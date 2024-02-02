@@ -13962,7 +13962,7 @@
     (property "Value" "LED Bar 5" (at -12.319 15.2654 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Forgotten Machines:LED Bar 5" (at -29.845 -15.875 0)
+    (property "Footprint" "Forgotten Machines:LED Bar 4" (at -29.845 -15.875 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 0.635 0 0)
@@ -14099,38 +14099,6 @@
       )
       (polyline
         (pts
-          (xy 10.16 2.54)
-          (xy 10.16 3.81)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 10.16 3.5814)
-          (xy 10.16 8.6614)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 10.16 8.89)
-          (xy 10.16 8.255)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 11.43 7.3914)
-          (xy 8.89 7.3914)
-        )
-        (stroke (width 0.254) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
           (xy -1.27 4.8514)
           (xy 1.27 4.8514)
           (xy 0 7.3914)
@@ -14171,16 +14139,6 @@
       )
       (polyline
         (pts
-          (xy 8.89 4.8514)
-          (xy 11.43 4.8514)
-          (xy 10.16 7.3914)
-          (xy 8.89 4.8514)
-        )
-        (stroke (width 0.254) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
           (xy 1.8034 4.4196)
           (xy 0.2794 2.8956)
           (xy 1.0414 2.8956)
@@ -14203,22 +14161,22 @@
       )
       (polyline
         (pts
-          (xy 8.255 3.81)
-          (xy 9.779 2.286)
-          (xy 9.779 3.048)
-          (xy 9.779 2.286)
-          (xy 9.017 2.286)
+          (xy 5.08 3.81)
+          (xy 6.604 2.286)
+          (xy 6.604 3.048)
+          (xy 6.604 2.286)
+          (xy 5.842 2.286)
         )
         (stroke (width 0) (type default))
         (fill (type none))
       )
       (polyline
         (pts
-          (xy 8.255 5.08)
-          (xy 9.779 3.556)
-          (xy 9.779 4.318)
-          (xy 9.779 3.556)
-          (xy 9.017 3.556)
+          (xy 5.08 5.08)
+          (xy 6.604 3.556)
+          (xy 6.604 4.318)
+          (xy 6.604 3.556)
+          (xy 5.842 3.556)
         )
         (stroke (width 0) (type default))
         (fill (type none))
@@ -14228,10 +14186,6 @@
       (pin passive line (at 0 0 90) (length 2.54)
         (name "" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
-      )
-      (pin passive line (at 10.16 11.43 270) (length 2.54)
-        (name "K" (effects (font (size 1.27 1.27))))
-        (number "16" (effects (font (size 1.27 1.27))))
       )
       (pin passive line (at 7.62 11.43 270) (length 2.54)
         (name "K" (effects (font (size 1.27 1.27))))
@@ -14260,10 +14214,6 @@
       (pin passive line (at 7.62 0 90) (length 2.54)
         (name "" (effects (font (size 1.27 1.27))))
         (number "4" (effects (font (size 1.27 1.27))))
-      )
-      (pin passive line (at 10.16 0 90) (length 2.54)
-        (name "" (effects (font (size 1.27 1.27))))
-        (number "5" (effects (font (size 1.27 1.27))))
       )
     )
   )
