@@ -1,0 +1,17 @@
+(footprint "Single Thru-Hole" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 -18.24 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.1)))
+    (tstamp 1e6725ba-6898-4c8f-8066-b0b4b7b721b1)
+  )
+  (fp_text value "Single Thru-Hole" (at 0 -16.74 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 9d664ecc-4217-4b26-9cc8-ae9246f839e9)
+  )
+  (fp_text user "${REFERENCE}" (at 0 -15.24 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 7017116b-0410-4535-bf13-68e1f74804a2)
+  )
+  (pad "" thru_hole oval (at 0 0 270) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp bc9bc28c-73af-4114-b9e1-a7fc83ec613e))
+)
