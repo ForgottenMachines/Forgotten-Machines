@@ -39,7 +39,6 @@
       8,
       9,
       10,
-      12,
       13,
       14,
       15,
@@ -70,7 +69,7 @@
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "Connector Board.kicad_prl",
+    "filename": "2716 to 82S129.kicad_prl",
     "version": 3
   },
   "project": {

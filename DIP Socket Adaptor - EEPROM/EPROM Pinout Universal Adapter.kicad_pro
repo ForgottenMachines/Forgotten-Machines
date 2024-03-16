@@ -396,7 +396,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Connector Board.kicad_pro",
+    "filename": "EPROM Pinout Universal Adapter.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -543,7 +543,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "Connector Board.net",
+      "netlist": "EPROM Pinout Universal Adapter.net",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
