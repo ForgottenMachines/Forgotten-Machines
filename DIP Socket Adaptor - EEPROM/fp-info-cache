@@ -1,4 +1,4 @@
-22463209842240756
+22466632884676235
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -54334,6 +54334,13 @@ Card_Edge_Entrex_Trapezoid Keyboard
 24
 24
 Forgotten Machines
+Cheap Amazon Voltmeter
+
+
+0
+5
+5
+Forgotten Machines
 Connector_2x12_P3.96mm
 
 
@@ -54634,6 +54641,13 @@ Resistor-Cap-P10.16mm_Horizontal
 0
 2
 2
+Forgotten Machines
+SW_Slide_DPDT
+CuK miniature slide switch, OS series, SPDT, https://www.ckswitches.com/media/1428/os.pdf
+switch SPDT
+0
+5
+3
 Forgotten Machines
 Single Thru-Hole
 
