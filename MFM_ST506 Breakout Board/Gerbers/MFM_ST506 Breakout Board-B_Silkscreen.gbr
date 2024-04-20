@@ -1,11 +1,12 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,(5.1.9)-1*%
-%TF.CreationDate,2022-08-27T22:21:39+05:30*%
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.9*%
+%TF.CreationDate,2024-04-03T05:19:41-05:00*%
 %TF.ProjectId,MFM_ST506 Breakout Board,4d464d5f-5354-4353-9036-20427265616b,rev?*%
 %TF.SameCoordinates,Original*%
-%TF.FileFunction,Other,User*%
+%TF.FileFunction,Legend,Bot*%
+%TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.1.9)-1) date 2022-08-27 22:21:39*
+G04 Created by KiCad (PCBNEW 7.0.9) date 2024-04-03 05:19:41*
 %MOMM*%
 %LPD*%
 G01*

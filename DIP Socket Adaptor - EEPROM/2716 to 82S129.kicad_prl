@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 37,
+    "active_layer": 40,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -65,8 +65,8 @@
       39,
       40
     ],
-    "visible_layers": "001feff_80000001",
-    "zone_display_mode": 0
+    "visible_layers": "001ffff_80000001",
+    "zone_display_mode": 1
   },
   "meta": {
     "filename": "2716 to 82S129.kicad_prl",
